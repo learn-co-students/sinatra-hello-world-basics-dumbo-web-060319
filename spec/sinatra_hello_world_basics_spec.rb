@@ -1,4 +1,4 @@
-describe "GET '/'" do
+3describe "GET '/'" do
   before do
     get '/'
   end
